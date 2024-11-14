@@ -17,7 +17,8 @@ class App:
     # 1. Verifica si una lista contiene un número primo
     def contiene_numero_primo(lista):
         """
-        Verifica si hay al menos un número primo en la lista.
+        Hola
+        Verifica si hay al menos un número primo en la lista. Hola
         Retorna True si hay un número primo, de lo contrario, False.
         """
         pass
